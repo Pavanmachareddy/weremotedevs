@@ -1,10 +1,20 @@
 .App {
   text-align: center;
+  background-color: #e8eafa;
+  height: 100%;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.black {
+  color: rgb(30, 26, 26);
+}
+
+.black:hover {
+  color: #3d47f6;
 }
 
 @media (prefers-reduced-motion: no-preference) {
